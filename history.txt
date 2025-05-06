@@ -3464,3 +3464,3686 @@ exit
 ls
 z coding/markdown/
 gs
+lsd
+paru -Sy
+paru -Syu
+las
+la
+ls
+z games
+ls
+la
+ls
+pip --list
+uv pip list
+paru -Ss love
+paru -Ss love | grep love
+exit
+l
+cd raylib_intro/start/basics/code/
+ls
+uv run 2_move.py
+uv run 1_move.py
+uv run 1_base.py
+exit
+uv run 1_base.py
+cd raylib_intro/start/basics/code/
+uv run 1_base.py
+exit
+nv
+z nv
+v
+exit
+nv
+gs
+ga
+gc "confign noice"
+gp
+nv
+z games
+uv pip list
+nv
+cd raylib_intro/start/basics/code/
+uv run 1_base.py
+uv run 2_move.py
+uv run 3_input.py
+rcit
+exit
+sh -i -c 'source .venv/bin/activate ; nu'
+z games
+ls
+cd raylib_intro/start/basics/code/
+uv run 3_input.py
+uv run 4_collisions.py
+nv
+z nv
+v
+exit
+cd raylib_intro/start/basics/code/
+uv run 4_collisions.py
+cd dot
+gs
+ga
+gc "confign blink"
+gp
+gs
+exit
+uv run 5_camera.py
+lsd
+exit
+sh -i -c 'source .venv/bin/activate ; nu'
+clear
+bluetoothctl
+paru -Sy
+paru -Syu
+ping https://github.com/codespaces
+ping https://github.com
+ping github.com
+btop
+z dow
+lsd
+unzip Catppuccin-Dark-B-MB.zip
+unzip Catppuccin-Mocha.zip
+ls
+yazi
+gtk-update-icon-cache -f -t /home/rio/.icons/Catppuccin-Mocha/
+ls
+unzip Catppuccin-Dark-Macchiato-B-LB.zip
+yazi
+ls
+unzip Kanagawa-B.zip
+yazi
+ls
+trash-list
+unzip Arc-BLACK_1.8.9.zip
+yazi
+ls
+tar -xf TokyoNight-SE.tar.tar
+ls
+yazi
+ls
+tar -xf oneui4-icons.tar.gz
+yazi
+yaxi
+y
+gs
+z dot
+ga
+ls
+gs
+gc "add theme and icon"
+gp
+ls
+gs
+ls
+z dow
+ls
+tar -xf Banana.tar.xz
+unzip Bibata-Rainbow-Modern.tar.gz
+tar -xf Bibata-Rainbow-Modern.tar.gz
+yazi
+exit
+cd dot
+gs
+ga
+gc "add theme and icon"
+gp
+lsd
+pwd
+ls
+pwd
+lsd
+pwd
+lsd
+exit
+bluetoothctl
+z dot
+gs
+btop
+gs
+sys mem
+ls
+z dot
+ls
+z dow
+ls
+trash-put Banana.tar.xz Bibata-Rainbow-Modern.tar.gz
+git clone https://github.com/D3Ext/aesthetic-wallpapers.git
+ls
+git clone https://github.com/D3Ext/aesthetic-wallpapers.git
+ls
+yazi
+ls
+du
+cd aesthetic-wallpapers/
+ls
+du
+trash-put .git .github/ CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE assets pages
+ls
+du
+trash-put README.md
+ls
+yazi
+y
+sys mem
+paru -Syu
+sys mem
+lsd
+fs
+lsd
+pwd
+lsd
+z codeing
+ls
+z
+ls
+x coding/go_lang/
+z coding/go_lang/
+lsd
+v
+exit
+lsd
+ll
+btop
+pwd
+;sd
+lsd
+sys disks
+lsd
+pwd
+ls
+sys host 
+paru -Sy
+paru -Syu
+z todo
+ls
+z ..
+cles
+cls
+ls
+cd todo_app
+cls
+ls
+v
+gs
+git init 
+gs
+ga
+gc "first commit"
+gs
+cls
+lsd
+ls
+z
+cls
+z dot
+z tmux/
+ls
+la
+nv .tmux.conf
+cls
+exit
+tmux
+lsd
+ls
+z to
+ls
+z ..
+ls
+mkdir images
+cd images/
+ls
+go mod init images
+touch filter_image.go
+nv filter_image.go
+touch seprate_image.go
+nv seprate_image.go
+nv
+ls
+cp ~/Downloads/mobile-girl.jpg ./
+ls
+go run main.go -input mobile-girl.jpg -filter dark -intensity 0.5
+ls
+yazi
+y
+ls
+go run main.go -input py1.jpeg -filter dark -intensity 0.5
+ls
+y
+ls
+go run seprate_image.go -input ./ -output ./
+ls
+nv
+exit
+pwd
+ls
+cat main.go
+lsd
+z
+exit
+lsd
+pwd
+ls
+cd coding/
+ls
+mkdir lua_lang
+cd lua_lang/
+ls
+touch main.lua
+ls
+lua main.lua
+e
+exit
+lua main.lua
+:wqa
+exit
+nv
+v
+cls
+lsd
+pwd
+cls
+exit
+tmux
+z
+exit
+z dow
+ls
+unzip Gruvbox-Dark-B-MB.zip
+ls
+tar -xf Colloid-Catppuccin.tar.xz
+ls
+y
+ls
+tar -xf Nordic-darker.tar.xz
+ls
+y
+exit
+lsd
+pwd
+z dow
+ls
+trash-put ./
+ls
+trash-list
+trash-empty
+z dot
+ls
+gs
+ga
+gs
+gc "change theme"
+gp
+ls
+z
+z dow
+ls
+tar -xf Honor-brown.tar.xz
+ls
+y
+ls
+p
+z dow
+ls
+tar -xf Honor-black.tar.xz
+y
+z
+cd dow
+ls
+trash-put Honor-black-dark Honor-black.tar.xz Honor-brown.tar.xz
+ls
+tar -xf Honor-blue.tar.xz Honor-grey.tar.xz Honor-green.tar.xz Honor-pink.tar.xz
+ls
+tar -xf Honor-blue.tar.xz Honor-grey.tar.xz Honor-green.tar.xz Honor-pink.tar.xz
+tar
+tar -xf Honor-blue.tar.xz
+tar -xf Honor-green.tar.xz
+tar -xf Honor-grey.tar.xz
+tar -xf Honor-pink.tar.xz
+y
+ls
+pwd
+z dow
+ls
+tar Black-BigSur.tar.xz
+tar -xf Black-BigSur.tar.xz
+tar -xf NeonIcons.tar.gz
+tar -xf epsilon-dark.tar.tar
+ls
+mv Black-BigSur NeonIcons epsilon-dark /home/rio/dotfiles/icons/.icons
+ls
+trash-put *.
+trash-put Black-BigSur-dark Black-BigSur.tar.xz NeonIcons.tar.gz epsilon-dark.tar.tar
+ls
+z dot
+ls
+gs
+ga
+gc "change theme"
+gs
+gp
+pwd
+ls
+du
+z /home/rio/dotfiles/icons/
+ls
+la
+cd .icons/
+du
+y
+du
+y
+du
+z dot
+gs
+ga
+gc "change theme"
+gp
+du
+ls
+du
+y
+paru -Syu
+z dot
+gs
+exit
+ls
+z todo
+v
+ls
+cls
+tmux
+gs
+z\
+z dot
+gs
+exit
+lsd
+pwd
+paru -Sy
+paru -Syu
+ls
+awk output.md
+ls
+z nv
+ls
+gs
+nv
+v
+gs
+ga 
+gc "change autocommand"
+gs
+gp
+gs
+z todo
+v
+ls
+z
+ls
+v output.md
+lsd
+pwd
+lsd
+pwd
+z nv
+ls
+tree
+fzf --preview="bat {}"
+find * -type f | fzf > selected
+ls
+z
+v output.md
+z nv
+v
+gs
+ga
+gc "change keymap"
+gp
+z
+v output.md
+z nv
+v
+gs
+ga
+gc
+gc "change keymap"
+gp
+z
+z dot
+gs
+btop
+gs
+v .gitignore
+gs
+ga
+gc "change gitignore"
+gp
+gs
+exit
+ls
+sys disks
+z nv
+p
+nv
+v
+ls
+ga
+gc "change lualine"
+gp
+cls
+v
+ga
+gs
+gc "change blankline"
+gp
+cls
+v
+ga
+gc "change buffer"
+gp
+exit
+tmux
+exit
+z nv
+v
+exit
+v
+z todo
+v
+z nv
+v
+ga
+gs
+gc "change buffer"
+gp
+v
+gs
+z
+ls
+z dot
+ls
+gs
+y
+z dot
+gs
+ga
+gc "change nu"
+gp
+z 
+z backup/
+v init.lua
+exit
+ls
+z nv
+ls
+z //
+ls
+z nv
+z ..
+ls
+7z a nvimv1.zip ./nvim
+ls
+mv nvimv1.zip ~/backup/
+ls
+z
+z backup/
+ls
+z nvim
+ls
+v
+z games
+ls
+v
+z nv
+v
+p
+gs
+z games
+ls
+v
+exit
+sh -i -c 'source .venv/bin/activate ; nu'
+z nv
+ls
+gs
+v
+ga
+gc "change options"
+gp
+lsd
+paru -Sy
+paru -Syu
+paru -Q ruff
+paru -Q nano
+nano
+lsd
+ls
+paru -Syu
+pwd
+npm -v
+uv -v
+uv --version
+z nv
+v
+gs
+paru -Syu
+lsd
+ls
+tree
+nv
+lsd
+ls
+z nv
+nv
+gs
+ga
+gc "change options"
+gp
+z dot
+ls
+gs
+z nv
+ls
+z ..
+7z a nvimv2.zip ./nvim
+ls
+mv nvimv2.zip ~/backup/
+z dart_lan
+ls
+dart create password_manager
+v
+z password_manager/
+ls
+cd password_manager/
+cls
+dart pub get
+cls
+dart run bin/password_manager.dart
+cls
+ls
+dart pub cache clean
+dart pub get
+cls
+dart run bin/password_manager.dart
+cls
+ls
+v
+cat pubspec.yaml
+dart pub cache clean
+v
+dart pub get dcli sqlite3 path
+cat pubspec.yaml
+v
+ls
+dart run bin/password_manager.dart
+cls
+dart pub cache clean
+v
+ls
+dart pub get
+cls
+dart run bin/password_manager.dart
+cls
+v
+dart pub cache clean
+dart pub get
+cls
+dart run bin/password_manager.dart
+cls
+ls
+dart run bin/password_manager.dart
+cls
+tree
+du
+v
+cls
+v
+ls
+dart run bin/password_manager.dart
+cls
+dart run bin/password_manager.dart
+cls
+dart run bin/password_manager.dart
+cls
+ls
+gs
+git init 
+ga
+gc "initial working model"
+gs
+cls
+gs
+tree
+trash-put .git 
+v .gitignore
+git init 
+gs
+ga
+gs
+trash-put .git 
+v
+v .gitignore
+cls
+git init 
+gs
+ga
+gs
+gc "initial working model"
+gs
+cl
+cls
+git remote add origin https://github.com/supermanten/password_manager.git
+git branch -M main
+git push -u origin main
+exit
+exit
+tmux
+exit
+ls
+pwd
+paru -Sy
+paru -Syu
+paru -Q firefox
+paru -Ss zen-browser-bin
+paru -Rns firefox
+ls
+paru -Q firefox
+paru -S zen-browser-bin
+lsd
+paru -Sy
+paru -Syu
+btop
+sys mem
+btop
+sys mem
+lsd
+pwd
+lsd
+z dart_lan
+z password_manager/
+v
+tmux
+v
+ls
+dart run bin/password_manager.dart
+ls
+fdisk -l
+sudo fdisk -l
+smartctl
+smartctl -h
+lsblk
+sudo smartctl -a /dev/sda2
+ls
+z password_manager/
+z ~/coding/dart_lang/password_manager/
+ls
+dart run bin/password_manager.dart
+ls
+v
+dart run bin/password_manager.dart
+gs
+ga
+gc "fix reset id"
+gp
+tmux
+ls
+pwd
+lsd
+ping github.com
+paru -Sy
+paru -Syu
+lsd
+paru -Sy
+paru -Syu
+z nv
+lsd
+v
+cls
+ga
+gs\
+gs
+gc "fix: load time"
+gp
+gs
+cls
+exit
+tmux
+exit
+lsd
+sys mem
+cls
+z nv
+v
+paru -Sy
+exit
+tmux
+ls
+ping github.com
+paru -Sy
+paru -Syu
+lsd
+wezterm ls-fonts --list-system | grep Fira
+wezterm ls-fonts --list-system | grep JetBrains
+cd coding/
+ls
+du
+du -h
+du 
+lsd
+wezterm ls-fonts --list-system | grep Jet
+wezterm ls-fonts --list-system | grep Hack
+ls
+pwd
+lsd
+ll
+z dot
+ls
+z wezterm/
+ls
+la
+wezterm ls-fonts --list-system | grep Mes
+v .wezterm.lua
+echo -e "\xf0\x9f\x90\x8d"
+"\xf0\x9f\x90\x8d"
+lsd
+pwd
+lsd
+pd
+pwd
+ls
+lsd
+v
+history | grep '/'
+history | grep echo
+history
+"\u{1F40D}"
+wezterm ls-fonts --list-system | grep Mes
+wezterm ls-fonts --list-system | grep Jet
+"\u{1F40D}"
+v
+"\u{1F40D}"
+v
+"\u{1F40D}"
+v
+z 
+z coding/lua_lang/
+ls
+v
+z nv
+v
+exit
+tmux
+v
+exit
+v
+exit
+"\u{1F40D}"
+exit
+z nv
+gs
+ga
+gc "fix: term"
+gp
+v
+z ..
+7z a nvimv3.zip ./nvim
+ls
+mv nvimv3.zip ~/backup/
+ls
+exit
+z password_manager/
+z 
+z password_manager/
+z coding/dart_lang/password_manager/
+ls
+v
+ls
+dart run bin/password_manager.dart
+cls
+dart run bin/password_manager.dart
+cls
+dart run bin/password_manager.dart
+cls
+dart run bin/password_manager.dart
+cls
+dart run bin/password_manager.dart
+cls
+dart run bin/password_manager.dart
+exit
+tmux
+z password_manager/
+z coding/dart_lang/password_manager/
+ls
+v
+dart run bin/password_manager.dart
+ls
+pwd
+paru -Sy
+paru -Syu
+z password_manager/
+z coding/dart_lang/password_manager/
+v
+dart run bin/password_manager.dart
+v
+dart run bin/password_manager.dart
+v
+gs
+ga 
+gc "fix: error"
+gp
+ls
+v
+dart run bin/password_manager.dart
+ls
+gs
+ga
+gc "fix: password strength"
+gp
+v
+dart pub get
+cls
+dart run bin/password_manager.dart
+cls
+dart pub cache clean
+dart pub get
+dart run bin/password_manager.dart
+cls
+dart pub cache clean
+dart pub get
+dart run bin/password_manager.dart
+cls
+tmux
+v
+dart run bin/password_manager.dart
+dart compile exe bin/password_manager.dart -o password_manager
+./bin/password_manager
+tree
+./password_manager
+gs
+ga
+gc "fix: add colsole yui"
+gp
+ls
+cat .gitignore
+v
+dart run bin/password_manager.dart
+v
+dart run bin/password_manager.dart
+v
+dart run bin/password_manager.dart
+v
+dart run bin/password_manager.dart
+v
+gs
+ga
+gc "fix: organized files"
+gs
+v
+gp
+ls
+rm -rf password_manager 
+ls
+dart compile exe bin/password_manager.dart -o password_manager
+ls
+./password_manager
+v
+ga
+gc "fix: organized files"
+gp
+v
+dart run bin/password_manager.dart
+v
+dart run bin/password_manager.dart
+v
+ga
+gc "fix: organized files"
+gp
+q
+paru -Syu
+z nv
+ls
+v
+nv
+z password_manager/
+z coding/dart_lang/password_manager/
+z
+z coding/dart_lang/password_manager/
+nv
+z nv
+ls
+nv
+dart 
+dart formate
+ls
+paru -Q sqlite
+paru -Q alsa
+paru -Q | grep alsa
+la
+pwd
+p
+gs
+ga
+gc "fix: keymap"
+z dot
+ga
+p
+gs
+gc "fix: wezterm"
+la
+ping github.com
+z dot
+p
+gp
+bluetoothctl
+lsd
+pwd
+lsd
+las
+lsd
+pwd
+paru -Sy
+paru -Syu
+paru -Ss gvfs
+sys mem
+paru -S gvfs
+lsd
+pwd
+lsd
+pwd
+z password_manager/
+z ~/coding/dart_lang/password_manager/
+ls
+v
+ls
+./password_manager
+nv
+g
+gs
+gp
+rm -rf password_manager 
+dart compile exe bin/password_manager.dart -o password_manager
+exit
+lsd
+pwd
+paru -Sy
+paru -Syu
+sys temp 
+z dot
+gs
+btop
+lsd
+z backup/
+ls
+trash-put nvim nvimv1.zip nvimv2.zip nvimv3.zip dotfiles_v3.zip
+ls
+history > history_for_print.txt
+nv init.lua
+z nv
+p
+v
+z todo
+v
+p
+z todo
+v
+v
+cls
+v
+gs
+ga 
+gc "change keymap mason ui and oil nvim"
+cls
+tmux
+v
+gs
+git diff lua/keymaps.lua
+git
+git diff
+v
+gs
+ga
+gc "change keymap and noice"
+lsd
+pwd
+lsd
+pwd
+lsd
+z dot
+ls
+"\u{1F40D}"
+gs
+y
+wezterm ls-fonts --list-system | grep Mes
+wezterm ls-fonts --list-system | grep Hack
+v
+"\u{1F40D}"
+las
+ll
+z
+ll
+z dot
+gs
+gc "change wezterm "
+ga
+gc "change wezterm "
+ls
+y
+z 
+y
+z
+z backup/
+y
+yazi -h
+fzf --preview="bat {}"
+lsd
+paru -Q | grep duff
+paru -Q | grep gcc
+gcc --version
+paru -Q | grep clangd
+paru -Q | grep clang
+paru -Q | grep lua
+paru -Q | grep uv
+paru -Q | grep npm
+paru -Q | grep flutter
+z
+y
+btop
+lsd
+ll
+ls
+z
+ll
+z backup/
+v
+z
+pwd
+z go_lang
+ls
+cd images/
+ls
+tree
+ls dark/
+v
+z 
+z dot
+y
+z dart_lan
+z go_lang
+ls
+z images/
+nv
+v
+z
+y
+lsd
+pwd
+lsd
+z dot
+z wezterm_dracula/
+ls
+la
+cd .config/
+ls
+x wezterm/
+ls
+z wezterm
+ls
+tree
+v
+z backup/
+ls
+tree
+ls
+trash-list
+trash-empty 
+sys disks
+y
+lsd
+z nv
+gs
+z dot
+ga
+gc "change wezterm "
+gs
+p
+z nv
+ls
+y
+pwd
+ls
+p
+z nv
+p
+ls
+z
+pwd
+z coding/
+ls
+z lua_lang/
+ls
+lua main.lua
+exit
+lua main.lua
+luarocks 
+ls
+luarocks init
+y
+paru -Q | grep love
+paru -Q | grep x11
+paru -Q | grep fd
+paru -Q > package.txt
+ls
+history | grep lsusb
+cyme --lsusb
+lsblk
+exit
+lsd
+pwd
+ping github.com
+z dot
+gs
+gp
+ls
+z backup/
+ls
+git clone https://github.com/NvChad/starter
+ls
+gcl https://github.com/NvChad/ui.git
+gcl https://github.com/NvChad/base46.git
+gcl https://github.com/NvChad/NvChad.git
+ls
+v init.lua
+paru -Syu
+z backup/
+nv
+ls
+z ..
+ls
+z nv
+p
+v
+gs
+pwd
+lsd
+cd ..
+ls
+7z a nvimv4.zip ./nvim
+mv nvimv4.zip ~/backup/
+ls
+z nv
+p
+z backup/
+ls
+cd ..
+ls
+nv
+la
+ping github.com
+paru -Sy
+paru -Syu
+z nv
+ls
+nv
+lsd
+ls
+pwd
+ls
+rm -rf *.png
+ls
+mv PersonalBlogHub.zip ~/backup/
+ls
+p
+gs
+ls
+z todo
+v
+lsd
+cls
+tmux
+y
+ls
+z
+y
+fs
+cls
+z go_lang
+ls
+mkdir learn_go
+z learn_go/
+go mod init learn_go
+go run .
+nv
+ls
+z games
+p
+nv
+lsd
+z
+lsd
+pwd
+lsd
+pwd
+z
+y
+lsd
+z coding/dart_lang/password_manager/
+ls
+./password_manager
+v
+ls
+dart run bin/password_manager.dart
+gs
+z
+ls
+z coding
+ls
+tree settings/
+tree settings
+tree rust_lang/
+du
+z rust_lang/
+ls
+cd cli/
+ls
+rust r
+cargo r
+v
+z nv
+gs
+v
+z rust_lang/
+ls
+v
+z go_lang
+ls
+z learn_go/
+go run .
+v
+lsd
+ps
+pacman -Qdt
+cava
+z markdown
+ls
+nano nvim_keymap.md
+paru -Q | grep vi
+paru -Q | grep man
+ls
+z todo
+ls
+v
+pwd
+lsd
+ls
+lsd
+ls
+lsd
+pwd
+lsd
+pwd
+lsd
+ll
+ls
+sys disks
+sys mem
+sys temp 
+lsd
+pwd
+cyme --lsusb
+ip addr
+paru -Q | grep nmap
+paru -Sy
+ping github.com
+paru -Sy
+lsd
+pwd
+paru -Sy
+paru -Syu
+ls
+fs
+z dot
+gs
+ga
+gc "change confirm"
+gp
+z nv
+v
+ls
+gs
+ga
+gc "change init modify lazy config"
+gs
+gp
+v
+pwd
+lsd
+pwd
+ls
+tree
+v
+lsd
+ls
+unzip PersonalBlogHub.zip
+ls
+z nv
+v
+z ~/.local/share/nvim/
+ls
+cd lazy/
+la
+cd telescope.nvim/
+v
+tmux
+z todo
+v
+cls
+z dot
+ls
+cd tmux/
+ls
+cd  dot
+ls
+cd tmux/
+ls
+la
+ls
+v
+ls
+z Tools/
+cls
+v
+tmux
+v
+tmux
+v
+v .tmux.conf
+gs
+lsd
+p
+z
+z todo
+lsds
+lsd
+ls
+nv
+y
+v .wezterm.lua
+z nv
+p
+v
+nv
+gs
+ga
+gc "change neovide config"
+gp
+ls
+bluetoothctl
+lsd
+paru -Syu
+fs
+z go_lang
+mkdir hangman
+cd hangman/
+go mode init hangman
+ls
+go mod init hangman
+ls
+touch main.go
+ls
+go run .
+nv
+lsd
+pwd
+z
+z nv
+v
+z backup/
+ls
+z ..
+ls
+v
+z nv
+ls
+v
+z backup/
+p
+ls
+gs
+v
+z nv
+v
+z
+z nv
+p
+paru -Q | grep sqlite
+z password_manager/
+z ~/coding/dart_lang/password_manager/
+ls
+sqlite
+z ~/coding/dart_lang/password_manager/
+sqlite3
+ls
+trash-put password_manager.db `passwords.db;`
+ls
+z dot
+gs
+btop
+gs
+git restore btop/.config/btop/btop.log
+gs
+p
+z
+p
+uname
+uname -a
+uname 
+fs
+man
+paru -Qdt
+paru -Q
+paru -Q | grep vim
+paru -Q | grep neo
+paru -Q | grep cyme
+paru 
+paru --version
+paru -help
+paru -c
+paru -Q | grep which
+which nvim
+v
+paru -Q | grep whisker
+paru -Rns xfce4-whiskermenu-plugin
+paru -Q | grep zip
+paru -Q | grep thunar
+paru -Q | grep gvfs
+paru -Q | grep term
+paru -Q | grep .ttf
+paru -Q | grep ttf
+which dart
+which go
+which cargo
+which npm
+which python
+which python3
+paru -Q | grep python
+du
+trash-put /home/rio/go
+paru -Q | grep paarol
+paru -Q | grep parol
+paru -R parol
+paru -R parole
+paru -Rns parole
+ls
+trash-put 'Wolf-King-(2025)-Season-1-Hindi-Dubbed-Complete-Series--720p-[Orgmovies].mp4'
+trash-put 'Tomb-Raider_-The-Legend-of-Lara-Croft-(2024)-S01-Hindi-Dubbed-NF-Series--720p-[Orgmovies].mp4'
+ls
+trash-list 
+z ~/.local/share/Trash/
+ls
+tree
+ls
+cls
+ls
+cd files/
+ls
+trash-empty 
+z
+trash-empty 
+ls ~/.local/share/Trash/files/
+trash-empty 
+sudo trash-empty 
+trash-list
+sys disks
+ls
+sys disks
+lsd
+pwd
+lsd
+ls
+las
+lsd
+pwd
+lsd
+z dot
+gs
+btop
+lsd
+p
+btop
+ls
+trash-put output.md
+lsd
+z coding/markdown/
+l
+nv
+z nv
+p
+nv
+date list-timezone
+date now 
+cal
+z ~/coding/NodeJs/
+ls
+z PersonalBlogHub/
+la
+nv
+z
+lsd
+cd dot
+gs
+git restore btop/.config/btop/btop.log
+z coding/markdown/
+z ~/coding/
+ls
+cd settings/
+ls
+la
+z ..
+ls
+cd dart_lang/
+ls
+cd todo/
+ls
+nv
+z ../../lua_lang/
+ls
+lua main.lua
+nv
+lsd
+pwd
+z
+lsd
+pwd
+ls
+paru -Sy
+paru -Syu
+z nv
+p
+gs
+nv
+lsd
+paru -Syu
+z
+paru -Syu
+ls
+pwd
+paru -Ss mvp
+paru -Ss mpv
+paru -Rns parole
+paru -S mpv
+paru -Q | grep whisker
+paru -Rns xfce4-whiskermenu-plugin
+paru -S mpv
+ls
+z
+la
+ls .fonts
+ls
+c dow
+z down
+ls
+gcl https://github.com/maoiscat/mpv-osc-modern.git
+ls
+v
+ls
+cd mpv-osc-modern/
+ls
+mkdir ~/scripts
+mv modern.lua ~/scripts/
+mv Material-Design-Iconic-Font.ttf ~/.fonts
+z
+ls
+touch mpv.conf
+v mpv.conf
+ls
+ls scripts/
+cd ~/.config/
+ls
+mkdir mpv
+cd mpv/
+ls
+mv ~/scripts ./
+ls
+mkdir fonts
+ls
+mv ~/.fonts/Material-Design-Iconic-Font.ttf fonts/
+ls
+tree
+mv ~/mpv.conf ./
+ls
+cd 
+z dot
+ls
+ls nvim/
+la nvim/
+tree nvim/
+tree nvim
+ls
+mkdir mpv
+ls
+mkdir mpv/.config
+mv ~/.config/mpv ./mpv/.config/
+ls
+ls ~/.config/
+ls
+stow mpv
+ls
+gs
+ga
+gc "add mpv"
+gs
+gp
+z ~/Video/
+ls
+trash-put "Games/Assassin's Creed 3 - E3 Official Trailer [UK].mp4"
+ls
+z
+df -h
+flutter doctor
+flutter doctor -v
+flutter config
+flutter config --no-enable-android
+flutter doctor
+flutter config --no-enable-ios
+flutter config --no-enable-windows-desktop
+flutter config --no-enable-macos-desktop
+flutter doctor
+flutter config --no-enable-web
+flutter doctor
+ls
+z coding/
+df -h
+cd flutter_apps/
+ls
+flutter create rio_player
+cd rio_player/
+ls
+flutter pub get
+ls
+flutter run
+nv
+ls
+cd ..
+ls
+du
+rm -rf rio_player
+ls
+paru -Sy
+paru -Syu
+ls
+pacman -Qdt
+paru -Q | grep ava
+z dot
+ls
+cd mpv/.config/
+ls
+cd mpv/
+ls
+nv
+z 
+ls
+cd dot
+ls
+du 
+du | where physical > 50mb 
+du | where physical > 10mb 
+p
+gs
+ls
+z rust_lang/
+ls
+nv
+z ../../
+ls
+cd python/
+ls
+mkdir cli
+cd cli/
+uv init .
+ls
+python3 --version
+uv run .
+uv 
+ls\
+ls
+uv run main.py
+uv venv env
+ls
+uv list
+uv pip list
+sh -i -c 'source env/bin/activate ; nu'
+nv
+z nv
+ls
+y
+tree
+ls
+nv
+ls
+tree
+gs
+ga
+gc "add config in lua"
+gs
+ls
+nv
+y
+ls
+nv
+ls
+gs
+ga
+gc "add assets"
+gs
+ls
+ls | sort-by modified
+git log
+ls
+pwd
+z 
+ls
+mpv --version
+mpv -h
+ls
+pwd
+z cli
+p
+z python
+ls
+cd cli/
+nv
+z
+paru -Q
+ls
+cd backup/
+ls
+touch packages.md
+nv packages.md
+ls
+z
+ls
+pwd
+cd dot
+ls
+gs
+btop
+gs
+git restore btop/.config/btop/btop.log
+ls
+z
+fs
+z wezterm
+ls
+la
+fs
+wezterm ls-fonts --list-system | grep Hack
+wezterm ls-fonts --list-system | grep Jet
+fs
+ls
+pwd
+fs
+nv .wezterm.lua
+ls
+pwd
+lsd
+la
+fs
+ls
+nv .wezterm.lua
+wezterm ls-fonts --list-system | Hack
+wezterm ls-fonts --list-system | grep Hack
+nv .wezterm.lua
+fs
+v .wezterm.lua
+nv .wezterm.lua
+fs
+paru -Q | grep jet
+fc-cache -fv
+paru -Q | grep nerd
+paru -Rns ttf-hack-nerd
+paru -Rns ttf-cascadia-code-nerd
+paru -Rns ttf-meslo-nerd
+ls
+paru -Q | grep nerd
+paru -Q | grep tt
+paru -Q | grep ttf
+fs
+z neovide
+ls
+nv config.toml
+wezterm ls-fonts --list-system | grep Jet
+cd ~/.local/share/fonts/
+ls
+z wezterm
+nv .wezterm.lua
+z neovide
+nv config.toml
+ls
+z dot
+ls
+gs
+ga
+gc "fix: font"
+gs
+fs
+ls
+ls font/
+y
+cd ~/.local/share/fonts/
+ls
+cp JetBrains-Mono-Nerd-Font-Complete.ttf ~/dotfiles/font/.fonts/
+z dot
+y
+fc-cache -fv
+ls
+cd ~/.local/share/fonts/
+ls
+cd dot
+stow font
+fc-cache -fv
+cd dot
+gs
+ga
+gc "fix: font"
+gs
+ls
+wezterm ls-fonts --list-system | grep Jet
+cd ~/.local/share/fonts/
+ls
+trash-put JetBrains-Mono-Nerd-Font-Complete.ttf
+z dot
+ls
+fc-cache -fv
+wezterm ls-fonts --list-system | grep Jet
+ls
+w
+paru -Q | grep ttf
+paru -Rns ttf-jetbrains-mono
+wezterm ls-fonts --list-system | grep Robot
+paru -Q | grep ttf
+paru -Rns ttf-roboto
+paru -Q | grep ttf
+fs
+paru -Q | grep plank
+which 7zip
+which go
+cd /usr/bin/
+ls
+ls | where size > 10mb | sort-by modified
+ls | where size > 10mb 
+ls | where size > 5mb 
+z
+ls
+ls | where size > 50mb 
+du | where physical > 10mb 
+du
+du | where physical > 300mb 
+fs
+ip addr
+z todo
+ls
+v
+nv
+z wezterm
+ls
+v .wezterm.lua
+fs
+v .wezterm.lua
+fs
+v .wezterm.lua
+z dot
+gs
+ga
+gc "fix: font"
+gs
+ping github.com
+gs
+gp
+paru -Sy
+paru -Syu
+ls
+pwd
+paru -Qe
+lsd
+la
+cd .codeium/
+ls
+tree
+ls
+z
+pwd
+z coding/
+ls
+paru -Q | grep lua
+z nv
+nv
+uv --version
+z ~/Video/
+ls
+cd Coding/
+ls
+du
+date now 
+btop
+cava
+z ~/dotfiles/mpv/.config/mpv/
+ls
+nv
+ls
+paru -Sy
+paru -Syu
+ls
+pwd
+uname 
+pw
+paru -Syu
+z nv
+ls
+gs
+cd dot
+ls
+git restore mpv/.config/mpv/scripts/modern.lua
+gs
+z nv
+ls
+gp
+nv
+ls
+pwd
+paru -Sy
+pwd
+lsd
+pwd
+fs
+lsd
+btop
+sys mem
+pwd
+lsd
+pwd
+y
+pwd
+y
+z
+z dot
+gs
+git restore btop/.config/btop/btop.log
+ls
+pwd
+btop
+gs
+cd btop/.config/
+ls
+la
+cd btop/
+ls
+gs
+git init
+touch .gitignore
+v .gitignore
+ls
+cat .gitignore
+ga
+gc "fix: btop"
+cd dot
+gs
+ga
+gc "fix: btop"
+gs
+btop
+gs
+pwd
+df -h
+paru -Q | grep java
+pwd
+p
+paru -Q | grep go
+paru -Q | grep node
+paru -Q | grep np
+paru -Q | grep xclip
+cls
+l
+ll
+la
+node -v
+p
+pwd
+lsd
+pwd
+p
+ls
+pwd
+l
+ll
+cd Tools/
+ls
+cd dow
+ls
+unzip Godot_v4.4.1-stable_linux.x86_64.zip
+ls
+mv Godot_v4.4.1-stable_linux.x86_64 ~/Tools/Godot/
+mv Godot_v4.4.1-stable_linux.x86_64 ~/Tools/Godot
+ls
+cd 
+cd Tools/
+ls
+ls Godot
+z
+p
+pwd
+lsd
+la
+lla
+ls
+paru -Q | grep ranger
+paru -Q | grep neovide
+paru -Q | grep neo
+btop
+paru -Q | grep time
+paru -Q 
+p
+z nv
+p
+ls
+paru -Sy
+paru -Syu
+pwd
+lsd
+pwd
+cd flutter_apps/
+ls
+cd ..
+ls
+flutter create theme_change
+cd theme_change
+ls
+flutter_bloc: ^9.1.0
+flutter pub add flutter_bloc
+cat pubspec.yaml
+lsd
+pwd
+paru -Syu
+ls
+flutter pub add get_it shared_preferences
+nv
+paru -Sy
+paru -Syu
+ls
+paru -Sy
+paru -Syu
+z nv
+p
+gp
+gs
+p
+nv
+paru -Syu
+paru -Syyuu
+cd /etc/modprobe.d/
+ls
+sodo nvim blacklist-r8188eu.conf
+sudo nvim blacklist-r8188eu.conf
+sudo nvim blacklist-rtl8xxxu.conf
+ls
+paru -Syyuu
+pwd
+paru -Syu
+fs
+flutter --version
+dart --version
+which dart
+z dot
+ls
+y
+ls
+ping github.com
+paru -Sy
+paru -Syu
+v
+pwd
+z
+ping github.com
+paru -Sy
+paru -Syu
+z nv
+ls
+v
+paru -Sy
+paru -Syu
+paru -Sy
+paru -Syu
+paru -Syyuu
+z nv
+v
+lsd
+pwd
+gs
+gp
+bluetoothctl
+paru -Sy
+paru -Syu
+lsd
+cd nv
+ls
+v
+z
+paru -Syu
+paru -Sy
+paru -Syu
+cyme --lsusb
+paru -Sy
+paru -Syu
+lsd
+z nv
+v
+paru -Sy
+paru -Syu
+paru -Sy
+paru -Syu
+fs
+btop
+nvidia-smi -l 2
+ls
+paru -Syu
+curl wttr.in/Kalyan
+cd nv
+v
+fs
+cd
+cd games
+ls
+v
+nv
+bluetoothctl
+paru -Syu
+ping github.com
+paru -Sy
+paru -Syu
+z nv
+v
+z
+pwd
+cd Downloads/
+ls
+wget https://xnfilms.com/download/?file=Game_Of_Thrones_S08E05_720p_Hindi-Dub_x264_[Mp4Moviez.in].mkv
+ls
+df -h
+paru -Sy
+paru -Syu
+ll
+sudo chmod +r Kr
+ls
+paru -Sy
+paru -Syu
+cd nv
+gs
+gp
+v
+cd ~/.local/share/
+ls
+cd nvim/
+ls
+cd ../../state/
+ls
+du
+cd nvim/
+ls
+z
+ls
+paru -Sy
+paru -Syu
+cd nv
+v
+ping github.com
+paru -Sy
+paru -Syu
+cd nv
+ls
+nv
+paru -Syu
+sys temp 
+btop
+ls
+ping github.com
+paru -Sy
+paru -Syu
+cls
+cd nv
+v
+fs
+lsd
+z
+cd backup/
+ls
+cd cod
+ls
+cd NodeJs/
+ls
+cd PersonalBlogHub/
+ls
+du
+ls
+cd ..
+ls
+trash-put PersonalBlogHub/
+cd bac
+ls
+unzip `PersonalBlogHub(1).zip`
+ls
+mv PersonalBlogHub ~/coding/NodeJs/
+cd Node
+ls
+cd PersonalBlogHub/
+ls
+du
+ls
+v
+ls
+npm run dev
+cat package.json
+ls
+cd ..
+ls
+ll
+la
+du
+cd PersonalBlogHub/
+ls
+npm install
+npm run dev
+ls
+y
+npm run dev
+z
+btop
+sys temp 
+las
+lad
+ls
+ll
+y
+sys temp 
+ls
+paru -Sy
+paru -Syu
+sudo chmod 700 kr
+ls
+sudo chmod 700 Kr
+sudo chown root:root Kr
+sudo chmod 777 Kr
+sudo chown rio:rio Kr
+sudo chmod 700 Kr
+sudo chown root:root Kr
+cd backup/
+ls
+vim command.txt
+exit
+sys temp 
+cd Video/Movies/Other/
+ls
+la
+ll
+sudo chmod 777 Kr
+sudo chown rio:rio Kr
+ls
+sudo chmod 700 Kr
+sudo chown root:root Kr
+ping github.com
+paru -Sy
+paru -Syu
+ping github.com
+paru -Sy
+paru -Syu
+ls
+ping github.com
+paru -Sy
+paru -Syu
+cd nv
+ls
+v
+cd Video/Movies/Other/
+ls
+ls Kr/
+ls Kr
+sudo ls Kr
+ls
+la Kr
+cd Video/Movies/Other/
+ls
+sudo chmod 777 Kr
+sudo chown rio:rio Kr
+sudo chmod 700 Kr
+sudo chown root:root Kr
+paru -Sy
+paru -Syu
+ls
+paru -Sy
+paru -Syu
+ls
+cd nv
+ls
+v
+cd coding/
+ls
+cd lua_lang/
+ls
+lua main.lua
+nv
+btop
+y
+paru -Sy
+paru -Syu
+y
+ls
+z
+ls
+pwd
+ll
+ls
+cd lua_lang/
+btop
+cd nv
+nv
+cd Node
+ls
+cd PersonalBlogHub/
+ls
+nv
+ls
+npm run dev
+v
+cd 
+cd coding/
+ls
+cd dart_lang/
+tmux
+ls
+cd dart_lang/
+ls
+./password_manager
+nv
+bluetoothctl
+ls
+paru -Sy
+paru -Syu
+ls
+pwd
+paru -Sy
+paru -Syu
+paru -Ss visual-studio-code-bin
+paru -Ss visual-studio-code-bin 
+fs
+paru -S visual-studio-code-bin 
+cd nv
+v
+fs
+sys mem
+ls
+pwd
+lsd
+ll
+l
+cd
+ls
+paru -S visual-studio-code-bin
+ls
+paru -Syu
+whoami
+sudo chown -R rio '/opt/visual-studio-code/resources/app/out'
+sudo chown -R rio '/opt/visual-studio-code/resources/app'
+fs
+ls
+pwd
+ls
+cd
+ll
+fs
+ls
+cd markdown/
+cd coding/
+ls
+cd markdown/
+ls
+gs
+cd ..
+ls
+z
+y
+code --version
+ls
+which code
+cd /usr/bin/
+y
+z
+paru -Ss love
+paru -S love
+cd coding/
+ls
+cd rust_lang/
+ls
+cargo new server
+cd server/
+ls
+tree
+cargo c
+ls
+tree
+code .
+ls
+cargo r
+cargo r -q
+lsd
+ls
+uname
+paru -Sy
+paru -Syu
+fs
+cd coding/
+ls
+cd rust_lang/
+ls
+cd server/
+v
+cd nv
+gs
+ga
+gc "fix: remove rust"
+gs
+gp
+q
+nv
+cd coding/
+ls
+cd server/
+nv
+ls
+code .
+ls
+cargo r -q
+paru -Ss zed
+paru -Ss zed-editor 
+paru -Ss zed 0.183.11-1
+paru -S zed
+paru -Ss zed
+ls
+fs
+cd dot
+ls
+gs
+ls
+code --version
+lsd
+df -h
+lsblk
+pwd
+lsd
+figlet
+btop
+duff
+paru -Syu
+lsd
+pwd
+lsd
+love
+z
+cd coding/
+cd python/
+ls
+mkdie invoice
+mkdier invoice
+mkdir invoice
+cd invoice/
+uv init .
+ls
+v
+cd ..
+ls
+trash-put invoice/
+ls
+z
+ls
+pwd
+paru -Sy
+paru -Syu
+cd nv
+v
+cd server
+ls
+code .
+cargo r -q
+cargo r
+cargo r 
+ls
+cd ..
+du
+y
+cd server
+du
+lsd
+pwd
+lsd
+ls
+cd server
+ls
+cat src/main.rs
+bluetoothctl
+ping github.com
+paru -Sy
+paru -Syu
+exit
+sudo reboot now
+paru -Syu
+cd /etc/modprobe.d/
+ls
+vim blacklist-rtl8xxxu.conf
+:q
+nvidia-smi -l 2
+paru -Q nvidia
+paru -Qa nvidia
+paru -Qs nvidia
+paru -Syu
+btop
+paru -Syu
+lscpi | grep -E "VGA|3D"
+lspci | grep -E "VGA|3D"
+cd /etc/X11/xorg.conf.d/20-nvidia.conf
+cd /etc/X11/xorg.conf.d/
+ls
+sudo vim 20-nvidia.conf
+cls
+cd
+ls
+ping github.com
+paru -Sy
+paru -Syu
+sudo shutdown now
+ls
+ping github.com
+paru -Syu
+paru -Rns nvidia-390xx-dkms nvidia-390xx-utils
+cd /etc/X11/xorg.conf.d/
+ls
+sudo cp 20-nvidia.conf ~/backup/
+ls
+sudo trash-put 20-nvidia.conf
+ls
+cd
+ls
+paru -Syu
+paru -Qs nvidia
+paru -Rns libvdpau
+paru -Ss nouveau-fw
+paru -S nouveau-fw
+sudo mkinitcpio -P
+sudo reboot now
+lspci -k | grep -EA3 "VGA|3D|Display"
+cd /etc/X11/xorg.conf.d/
+ls
+cp ~/backup/20-nvidia.conf ./20-nouveau.conf
+sudo cp ~/backup/20-nvidia.conf ./20-nouveau.conf
+ls
+vim 20-nouveau.conf
+sudo reboot now
+cd /etc/X11/xorg.conf.d/
+sudo vim 20-nouveau.conf
+sudo reboot now
+sudo vim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo reboot now
+sudo vim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo reboot now
+sudo vim /etc/default/grub
+sudo reboot now
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo cat /etc/default/grub
+sudo reboot now
+cd /etc/X11/xorg.conf.d/
+vim 20-nouveau.conf
+cat 20-nouveau.conf
+sudo vim 20-nouveau.conf
+sudo reboot now
+cat /var/log/Xorg.0.log | grep "(EE)"
+sudo paru -Ss xf86-video-nouveau
+sudo paru -S xf86-video-nouveau
+cat /etc/X11/xorg.conf
+sudo rm /etc/X11/xorg.conf 
+sudo rm /etc/X11/xorg.conf.d/*
+sudo mkinitcpio -P
+sudo reboot now
+ls
+btop
+sudo vim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo reboot now
+cat /var/log/Xorg.0.log | grep "(EE)"
+nv 
+btop
+lspci -k | grep -EA3 "VGA|3D|Display"
+sudo mv /etc/X11/xorg.conf.d/20-nouveau.conf ~/backup/
+y
+btop
+fs
+paru -Syu
+cd
+exit
+cd dot
+ls
+cd btop/.config/btop/
+btop
+paru -Ss nvtop
+paru -S nvtop
+nvtop
+lspci | grep -E "VGA|3D"
+lsmod | grep nouveau
+paru -Rns nvtop
+fs
+paru -Ss radeontop
+paru -S radeontop
+radeontop
+paru -Rns radeontop
+fs
+history | grep 20
+v
+cd dot
+gs
+git restore btop/.config/btop/btop.conf
+gs
+btop
+fs
+paru -Qs nvidia
+paru -Ss nouveau
+btop
+sys mem
+sys temp 
+btop
+cat /var/log/Xorg.0.log | grep "(EE)"
+cd /etc/X11/xorg.conf.d/
+ls
+cd ..
+ls
+ls xorg.conf.d/
+dmesg
+cd /etc/X11/xorg.conf.d/
+ls
+sudo touch 20-nouveau.conf
+sudo nvim 20-nouveau.conf
+btop
+paru -Q mesa
+fs
+cd /etc/modprobe.d/
+ls
+cat blacklist-r8188eu.conf
+cat blacklist-rtl8xxxu.conf
+sudo nvim /etc/X11/xorg.conf.d/20-nouveau.conf
+fs
+xrandr
+paru -Ss xrandr
+paru -S xrandr
+paru -Syu
+grep "Monitor" /var/log/Xorg.0.log
+sudo nvim /etc/X11/xorg.conf.d/20-nouveau.conf
+grep "Monitor" /var/log/Xorg.0.log
+fs
+cd games
+ls
+la
+ls raylib_intro/
+la raylib_intro/
+la
+uv run raylib_intro/start/basics/code/1_base.py
+exit
+sh -i -c 'source .venv/bin/activate ; nu'
+sh -i -c 'source env/bin/activate ; nu'
+ls
+btop
+y
+btop
+cat /var/log/Xorg.0.log | grep "(EE)"
+lspci | grep -E "VGA|3D"
+lspci -k | grep -EA3 "VGA|3D|Display"
+btop
+cd dot
+gs
+git restore btop/.config/btop/btop.conf
+btop
+git restore btop/.config/btop/btop.conf
+btop
+git restore btop/.config/btop/btop.conf
+btop
+gs
+git restore btop/.config/btop/btop.conf
+ls
+lspci -k | grep -EA3 "VGA|3D|Display"
+ping github.com
+paru -Syu
+cd nv
+v
+sudo vim /etc/default/grub
+uname
+sudo cat /etc/default/grub
+uname
+sudo nvim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo nvim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo cat /etc/default/grub
+sudo nvim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo nvim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+exit
+sudo cat /etc/default/grub
+sudo reboot now
+fs
+journalctl -b -u lightdm.service
+journalctl -b | grep nouveau
+journalctl -b | grep Xorg
+cat /var/log/Xorg.0.log
+journalctl -b | grep nouveau
+journalctl -b
+sudo cat /etc/X11/xorg.conf.d/20-nouveau.conf
+sudo nvim /etc/X11/xorg.conf.d/20-nouveau.conf
+cat /var/log/Xorg.0.log | grep "(EE)"
+lspci -k | grep -EA3 "VGA|3D|Display"
+sudo paru -Syu
+ls
+cat /var/log/Xorg.0.log | grep "(EE)"
+lspci -k | grep -EA3 "VGA|3D|Display"
+btop
+journalctl -b | grep nouveau
+journalctl -b -u lightdm.service
+fs
+flutter --version
+flutter doctor
+dart --version
+flutter upgrade
+dart --version
+flutter --version
+node -v
+paru -Syu
+ls
+cd dot
+ls
+cd wezterm/.wezterm.lua
+vi wezterm/.wezterm.lua
+ls
+pwd
+cd nv
+v
+exit
+ls
+btop
+flutter --version
+cd dow
+ls
+unzip Hack.zip 
+ls
+mkdir ~/dotfiles/font/.fonts/Hack
+mv ./*.ttf ~/dotfiles/font/.fonts/Hack/
+ls
+trash-put Hack.zip README.md LICENSE.md
+ls
+cd dot
+cd font/.fonts/Hack/
+ls
+cd
+fc-cache -fv
+wezterm ls-fonts --list-system | grep Hack
+ls
+l
+fs
+ls
+lsd
+l
+fs
+cd dotfiles/
+fs
+nvim wezterm/.wezterm.lua
+gs
+git restore wezterm/.wezterm.lua
+ls
+nvim wezterm/.wezterm.lua
+fs
+pwd
+gs
+ga
+gc "fix: font"
+gp
+gs
+sudo cat /etc/X11/xorg.conf.d/20-nouveau.conf
+sudo nvim /etc/X11/xorg.conf.d/20-nouveau.conf
+cat /var/log/Xorg.0.log | grep "(EE)"
+sudo nvim /etc/X11/xorg.conf.d/20-nouveau.conf
+history | grep cat
+history | grep display
+history | grep DISPLAY
+ls
+btop
+ls
+btop
+sudo nvim /etc/X11/xorg.conf.d/20-nouveau.conf
+sudo cat /etc/X11/xorg.conf.d/20-nouveau.conf
+bluetoothctl
+ls
+paru -Syu
+"\u{1F40D}"
+lsd
+pwd
+cat /var/log/Xorg.0.log | grep "(EE)"
+cat /var/log/Xorg.0.log
+cat /var/log/Xorg.0.log | grep "(EE)"
+btop
+s /dev/input/by-id/
+paru -Syu
+ls
+cat /var/log/Xorg.0.log | grep "(EE)"
+cd /dev/input/
+ls
+ls by-id/
+ls by-path/
+cd /etc/modprobe.d/
+ls
+cd /etc/X11/xorg.conf.d/
+ls
+sudo touch 50-mouse.conf
+sudo touch 50-keyboard.conf
+sudo nvim 50-mouse.conf
+sudo nvim 50-keyboard.conf
+ls
+y
+cat /var/log/Xorg.0.log | grep "(EE)"
+ls
+cd /etc/X11/xorg.conf.d/
+ls
+sudo mv 50-keyboard.conf 50-mouse.conf ~/backup/
+ls
+lspci -k | grep -EA3 "VGA|3D|Display"
+lspci | grep -E "VGA|3D"
+btop
+cat /var/log/Xorg.0.log | grep "(EE)"
+journalctl -b -u lightdm.service
+journalctl -b | grep nouveau
+journalctl -b | grep Xorg
+paru -Q xf86-input-libinput
+cyme --lsusb
+cat /var/log/Xorg.0.log | grep "(EE)"
+paru -Q evdev
+paru -Q libinput
+sudo mv ~/backup/50-keyboard.conf ~/backup/50-mouse.conf /etc/X11/xorg.conf.d/
+cd /etc/X11/xorg.conf.d/
+sudo nvim 50-keyboard.conf
+sudo nvim 50-mouse.conf
+y
+cd ~/backup/
+ls
+cd /etc/X11/xorg.conf.d/
+ls
+y
+sudo mv 50-keyboard.conf 50-mouse.conf ~/backup/
+ls
+sudo reboot now
+paru -Syu
+./coding/GenAi/gen_ai/bin/gen_ai.exe
+ls
+v output.md
+./coding/GenAi/gen_ai/bin/gen_ai.exe
+nv output.md
+ls
+git
+paru -S git
+paru -Syyuu
+paru -Syu
+cd /etc/modprobe.d/
+ls
+sudo nvim blacklist-r8188eu.conf
+sudo nvim blacklist-rtl8xxxu.conf
+y
+lspci | grep -E "VGA|3D"
+lspci -k | grep -EA3 "VGA|3D|Display"
+journalctl -b | grep nouveau
+fs
+cd nv
+paru -Syu
+pacman -Qdt
+pacman -Syu
+ls
+v
+gs
+ga
+gc "fix: python formatter"
+gp
+cd
+ls
+ll
+la
+y
+cd dotfiles/
+la
+btop
+sys temp 
+sys mem
+ls
+sudo cat /etc/X11/xorg.conf.d/20-nouveau.conf
+btop
+ps
+cd nv
+ls
+tree
+v
+cd codeing
+z coding/
+ls
+code .
+rust r
+cargo r 
+z
+pwd
+http get https://jsonplaceholder.typicode.com/posts/1
+cd codeing
+cd coding/
+ls
+cd rust_lang/server/
+ls
+cls
+v
+tmux
+paru -Ss jest
+paru -Ss just
+paru -Q java
+paru -Q | grep java
+paru -Q | grep go
+cd rust_lang/
+ls
+cd ..
+ls
+cargo create bin hello
+cargo new bin hello
+cargo new hello --bin
+ls
+cd hello/
+code .
+cd hello/
+cd rust_lang/
+cd ../hello/
+ls
+http get localhost:3000
+http get http://localhost:3000
+cargo r 
+http get http://localhost:3000
+cls
+ls
+http get http://localhost:3000
+http get http://localhost:3000/world/1
+http get http://localhost:3000/world/2
+cargo r 
+ls
+cargo r 
+http get http://localhost:3000/query?name-rio&age-20
+http post --content-type application/json http://localhost:3000/get_json {name: Rio, age: 20}
+cargo r 
+http get http://localhost:3000/get_json_value
+cargo r 
+ls
+ping github.com
+paru -Sy
+paru -Syu
+cd nv
+v
+cd rust_lang/
+ls
+cd ../hello/
+ls
+du
+btop
+bluetoothctl
+paru -Ss jj
+paru -Ss qpdfview
+fs
+paru -Q | grep vi
+paru -Rns vim
+paru -S qpdfview
+fs
+paru -Q | grep nano
+paru -Q | grep vi
+y
+ls
+cd 
+fs
+pacman -Qdt
+paru -S love
+love --version
+f
+fs
+y
+ls
+cd ..
+ls
+gcl https://github.com/kyleschaub/udemy-love2d
+ls
+cd lua_lang/
+z coding/lua_lang/
+ls
+mkdir game
+cd game/
+love .
+love basic/main.lua
+love ./basic/
+y
+v
+ls
+mkdir shooter
+cd shooter/
+v
+cd shooter/
+cd coding/lua_lang/game/shooter/
+v
+ls
+z
+fs
+bluetoothctl
+ls
+pwd
+paru -Sy
+paru -Syu
+cd nv
+v
+cd python
+ls
+cd cli/
+v
+cd nv
+v
+gs
+ga
+gc "fix: python formatter"
+gp
+pwd
+ls
+nv
+v
+ga
+gc "fix: python formatter"
+gp
+cd python
+ls
+cd cli/
+v
+lsd
+cd
+pwd
+lsd
+pwd
+ll
+lsblk
+sys disks
+btop
+sys temp
+pwd
+lsd
+pwd
+la
+fs
+y
+sys temp
+cd rust_lang/
+cd ls
+ls
+cd rust_lang/
+ls
+code .
+ls
+http post --content-type application/json http://localhost:3000/post_json {name: Rio, age: 20}
+cd Node
+ls
+mkdir SPOTLIGHT-APP
+cd SPOTLIGHT-APP/
+npm create-expo-app@latest .
+npx create-expo-app@latest .
+ls
+cd SPOTLIGHT-APP/
+cd Node
+cd SPOTLIGHT-APP/
+code .
+npx expo
+ls
+npm run reset-project
+ls
+trash-put app-example/
+npx expo
+npm install @clerk/clerk-expo
+npm install expo-secure-store
+npx expo
+paru -Syu
+cd Node
+ls
+du
+lsd
+la
+cd coding/
+du
+lsd
+pwd
+paru -Sy
+paru -Syu
+cd flutter_apps/
+ls
+flutter create BMI
+flutter create bmi_app
+cd bmi_app/
+v
+cd nv
+v
+ga
+gc "fix: lsp"
+gp
+v
+ls
+flutter 
+flutter build
+flutter build linux
+v
+flutter build linux
+ls
+cd build/linux/x64/release/bundle/
+ls
+./bmi_app
+cd ../../../../
+ls
+cd ..
+du
+cd build/linux/x64/release/bundle/
+du
+z
+e
+ps
+ls
+e
+btop
+ls
+paru -Sy
+sys temp
+ls
+pwd
+paru -Ss testing
+paru -Syu
+paru -Ss posting
+paru -S posting
+ls
+uv 
+uv tools
+uv tool
+uv tool list
+uv list
+uv
+uv python
+uv python list
+python3 --version
+python --version
+uv pip list
+paru -Q | grep cli
+sys temp
+btop
+cd nv
+ls
+v
+sys disks
+fdisk -l
+fdisk 
+sudo fdisk -l
+v
+ls
+ping github.com
+paru -Syu
+ls
+paru -Syu
+uv tool list
+uv tool install posting
+posting
+cd dot
+ls
+cd bash/
+ls
+la
+ls
+posting
+pwd
+uv tool list
+pip list
+paru -Q | grep pip
+uv pip list
+cd .local/
+ls
+ls bin/
+pwd
+flutter --version
+posting
+v .bash_profile
+la
+v .bashrc
+cd .local/
+pwd
+cd ..
+pwd
+cd do
+cd bash/
+posting
+v .bash_profile
+cd ../nushell/
+ls
+la
+cd .config/nushell/
+ls
+v 
+cd bash
+ls
+v .bash_profile
+cd nudhell
+cd nushell
+ls
+posting
+fs
+fzf --preview="bat {}"
+v
+cd dot
+gs
+ga
+gc "add: posting in env"
+gp
+which npm
+node -v
+paru -Q | grep node
+paru -Q 
+paru -Q | grep posting
+cd 
+ls
+la
+ls
+cd Downloads/
+ls
+tar -xf jdk-24_linux-x64_bin.tar.gz
+ls
+y
+trash-put cd ..
+cd ..
+ls
+trash-put jdk-24_linux-x64_bin.tar.gz
+trash-list
+trash-empty 
+trash-list
+ls
+cd 
+la
+mkdir .sdk
+pwd
+mv ~/Downloads/jdk-24.0.1/ .sdk/
+ls
+cd .sdk/
+ls
+cd jdk-24.0.1/
+pwd
+cd nushell
+java -v
+java --version
+v
+cd
+y
+which dart
+which rust
+which cargo
+cd nv
+ls
+cargo r 
+v
+posting
+http get http://localhost:3000/json_res
+ls
+paru -Sy
+paru -Syu
+btop
+fs
+paru -S gostty
+paru -S ghostty
+ls
+pwd
+fs
+"\u{1F40D}"
+y
+cd dot
+ls
+mkdir ghostty
+mkdir ghostty/.config
+cd ghostty/.config/
+mkdir ghostty
+ls
+cd ghostty/
+pwd
+touch config
+ls
+v
+cd dot
+trash-put ~/.config/ghostty
+y
+pwd
+stow ghostty
+y
+ls
+pwd
+fs
+"\u{1F40D}"
+wezterm ls-fonts --list-system | grep Jet
+cd dot
+cd wezterm/.wezterm.lua
+v wezterm/.wezterm.lua
+cd ..
+ls
+cd dotfiles/
+cd ghostty/.config/ghostty/
+fs
+cd nv
+v
+ls
+fs
+cd nv
+v
+"\u{1F40D}"
+fs
+cd nv
+v
+v
+cd dot
+ls
+gs
+ga
+gc "add: ghostty terminal"
+ls
+pwd
+lsd
+btop
+"\u{1F40D}"
+paru -Rns wezterm
+fs
+y
+la
+cd
+pacman -Qdt
+ghostty +list-fonts
+cd dotfiles/ghostty/.config/ghostty/
+ls
+v
+ghostty +list-themes
+ls
+cd dotfiles/ghostty/.config/ghostty/
+fzf --preview="bat {}"
+lsd
+cat config 
+"\u{1F40D}"
+btop
+cd dot
+gs
+ga
+gc "fox: ghostty terminal"
+gp
+la
+ls
+fs
+y
+"\u{1F40D}"
+pacman -Qdt
+fs
+paru -Q | grep wezterm
+paru -Q | grep love
+paru -Q 
+cd dotfiles/ghostty/.config/ghostty/
+cat config 
+ls
+cd dotfiles/ghostty/.config/ghostty/
+cd
+cd dotfiles/ghostty/.config/ghostty/
+cat config 
+ls
+fs
+tmix
+cd
+cls
+tmux
+cd
+cd dotfiles/tmux/
+la
+ls .tmux/
+y
+la
+cp .tmux.conf ~/backup/
+ls
+la
+trash-put .tmux
+la
+v .tmux.conf
+pwd
+tmux
+ls
+cd
+ls
+pwd
+cd nv
+ls
+cd
+cd dotfiles/tmux/
+cd dotfile
+ls
+cd tmux/
+la
+cd
+la
+y
+cd .tmux
+ls .tmux
+cat .tmux
+tmux
+ls
+ls
+tmux
+cd
+ls
+cd dotfile
+cd tmux/.tmux.conf
+y
+tmux
+tmux
+tmux kill server
+tmux kill-sessionr
+tmux kill-session
+tmux
+tmux kill-server
+ls
+tmux new -s main
+tmux
+cd dotfiles/tmux/
+v .tmux.conf
+ls
+cd
+ls
+tmux new -s main
+cd dotfiles/tmux/
+ls
+la
+pwd
+tmux new -s main
+ls
+nu -c 'if (sys::run "ping -c 1 8.8.8.8" | get exit_code) == 0 { "on" } else { "off" }'
+tmux new -s main
+v .tmux.conf
+cd nv
+v
+ls
+cd
+cd nv
+v
+tmux new -s main
+cd nv
+v
+ls
+v
+nv
+v
+hs
+gs
+cd dot
+gs
+ga
+gc "fox: tmux and nvim color"
+gs
+gp
+ls
+cd nv
+v
+gs
+ga
+gc "fix: nvim auto-comment"
+gp
+"\u{1F40D}"
+cd dot
+cd
+pwd
+tmux
+cd go_lang/
+ls
+pwd
+cd ..
+ls
+cd todo_app/
+v
+tmux
+v
+cargo create bin day_1
+cargo new bin day_1
+cargo new  day_1
+cargo r
+cd day_1/
+cargo r
+cargo r -q
+cd ..
+ls
+cargo new  day_2
+ls
+cd day_2
+code .
+code src/main.rs
+cargo r -q
+ls
+cargo add rand
+y
+paru -Q | grep code
+paru -Rns visual-studio-code-bin
+code
+y
+cd
+du
+y
+fs
+cd nv
+v
+cd nv
+v
+gs
+ga
+gc "fix: nvim rust-lsp"
+cd rust_lang/
+ls
+cargo c
+rustup rust-src
+paru -Q | grep rust
+paru -Q | grep cargo
+rust --version
+rustc --version
+rustcup --version
+paru -Ss rust-src
+rustc
+paru -Ss rust-src
+paru -Q | grep cargo
+paru -Q | grep rustc
+paru -Q | grep rust
+which cargo
+which rustc
+which rustup
+rustc -h
+rustc install
+paru -Q | grep rust
+paru -S rust-src
+v
+cd rust_lang/
+v
+cd nv
+v
+gs
+ga
+gc "fix: nvim rust-lsp need rust-src"
+gp
+cd rust_lang/
+cd ..
+ls
+cd learn_rust/
+ls
+cd day_2
+ls
+cargo r -q
+v
+ls
+paru -Sy
+paru -Syu
+paru -Sy
+ls
+fs
+"\u{1F40D}"
+cd nv
+v
+ls
+cd dot
+gs
+ls
+btop
+ls
+btop
+ls
+y
+ls
+paru -Sy
+paru -Syu
+cd  python
+ls
+mkdir server
+cd server/
+uv venv env
+ls
+uv pip list
+uv list
+ls
+uv init .
+ls
+uv add fastapi uvicorn
+la
+ls
+exit
+sh -i -c 'source env/bin/activate ; nu'
+ls
+trash-put env
+la
+uv pip list
+v
+uv pip list
+posting
+uvicorn main:app --reload
+sh -i -c 'source .venv/bin/activate ; nu'
+w
+history
+cd ~/backup/
+ls
+history > history_6_5.txt
+cat history | grep zip
+echo -e "\xf0\x9f\x90\x8d"
+history 
+history | to csv 
+ls
+ls | to text | save history_6_5.txt
+ls
