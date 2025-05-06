@@ -1,0 +1,48 @@
+name: 20-nvidia.conf
+type: file
+size: 175 B
+modified: Thu, 1 May 2025 12:13:18 +0530 (5 days ago)
+name: 50-keyboard.conf
+type: file
+size: 217 B
+modified: Thu, 1 May 2025 22:41:54 +0530 (4 days ago)
+name: 50-mouse.conf
+type: file
+size: 187 B
+modified: Thu, 1 May 2025 22:42:38 +0530 (4 days ago)
+name: PersonalBlogHub(1).zip
+type: file
+size: 149.913557 MB
+modified: Thu, 10 Apr 2025 08:20:58 +0530 (3 weeks ago)
+name: PersonalBlogHub.zip
+type: file
+size: 4.685025 MB
+modified: Wed, 9 Apr 2025 09:28:07 +0530 (3 weeks ago)
+name: command.txt
+type: file
+size: 363 B
+modified: Thu, 24 Apr 2025 15:56:30 +0530 (2 weeks ago)
+name: github.txt
+type: file
+size: 107 B
+modified: Mon, 17 Mar 2025 15:23:17 +0530 (2 months ago)
+name: history_for_print.txt
+type: file
+size: 5.221 kB
+modified: Sat, 15 Mar 2025 09:59:46 +0530 (2 months ago)
+name: init.lua
+type: file
+size: 45.73 kB
+modified: Mon, 7 Apr 2025 13:37:00 +0530 (4 weeks ago)
+name: link.txt
+type: file
+size: 1.723 kB
+modified: Sat, 29 Mar 2025 17:17:11 +0530 (a month ago)
+name: packages.md
+type: file
+size: 12.687 kB
+modified: Thu, 10 Apr 2025 16:41:59 +0530 (3 weeks ago)
+name: vscode_profile.code-profile
+type: file
+size: 31.31 kB
+modified: Mon, 5 May 2025 10:45:35 +0530 (a day ago)
